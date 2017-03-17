@@ -1,5 +1,5 @@
 ## DEPRECATED
-
+## Test
 This repository is DEPRECATED and will be soon replaced by :
 * https://github.com/SonarSource/sonar-scanning-examples : show how to use the SonarQube Scanners : In Progress
 * https://github.com/SonarSource/sonar-custom-rules-examples : show how to write custom rules : Done
